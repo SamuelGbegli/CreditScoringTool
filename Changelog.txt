@@ -1,0 +1,2 @@
+Added email to user account
+Added options to change a user's email and password

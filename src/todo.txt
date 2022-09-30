@@ -1,0 +1,24 @@
+Registration page
+Form validation:
+	User registration
+	Login
+	Credit scoring 
+	Demo credit scoring
+	Change email
+	Change password
+	
+Email user score results
+Export a score report to an external document
+Delete scores
+
+CSS for website
+
+Score report format:
+Loan amount
+Score
+Probability of paying back loan
+Things that positively affected score
+Things that negatively affected score
+Suggestions about the score
+
+		

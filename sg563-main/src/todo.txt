@@ -1,0 +1,17 @@
+Validation for user account creation
+Validation for credit form submission
+Email user score results
+Export a score report to an external document
+Export a summary of past reports
+
+CSS for website
+
+Score report format:
+Loan amount
+Score
+Probability of paying back loan
+Things that positively affected score
+Things that negatively affected score
+Suggestions about the score
+
+		
